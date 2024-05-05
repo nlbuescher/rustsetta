@@ -1,0 +1,4 @@
+fn_single_line = true
+hard_tabs = true
+chain_width = 100
+fn_call_width = 100
